@@ -5,7 +5,7 @@ New York City publishes a number of open datasets for public consumption or use.
 
 The first Jupyter notebook, Top10.ipynb, analyzes what the top 10 causes of calls to 311 are in our chosen ZIP code 10027, and calculates how many total incidents of each of these 10 types there have been in the year 2020. 
 
-The second Jupyter notebook, Parking.ipynb, analyzes whether illegal parking incidents are a larger fraction of total 311 incidents in our ZIP code 10027 than they are in general. We compute the total number of parking incidents in the chosen ZIP code 10027, and the total number of all incidents.
+The second Jupyter notebook, Parking.ipynb, analyzes whether illegal parking incidents are a larger fraction of total 311 incidents in our ZIP code 10027 than they are in general. We compute the total number of parking incidents in the chosen ZIP code 10027, and the total number of all incidents. Each of the figures are devided by the total number of incidents in the respected area. Results of calculations are compared to assign correct value to the variable higher_parking_proportion.
 
 # Where to find the dataset?
 You may find a pre-exported CSV file containing a year of data from the dataset, named 311_Service_Requests_2020.csv, using the following link:
@@ -19,4 +19,4 @@ project group 34
 
 Mengyuan Zhang (mz2611)
 
-Yukun Du ()
+Yukun Du (yd2553)
