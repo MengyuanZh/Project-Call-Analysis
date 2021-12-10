@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1BRd8_RSST69UaZRBeD_dtXGw9fuKoBZE?usp=sha
 # About the team
 This repository is made for a group project in IEOR 4501 Tools For Analytics Section 001. The whole project is made by :
 
-project group 34
+Project group 34
 
 Mengyuan Zhang (mz2611)
 
