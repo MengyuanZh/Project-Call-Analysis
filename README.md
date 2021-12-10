@@ -1,6 +1,8 @@
 # Project-Call-Analysis
 
 # Description
+This repository is made for a group project in IEOR 4501 Tools For Analytics Section 001. You may find the project and repository description below.
+
 New York City publishes a number of open datasets for public consumption or use. Amongst them is a dataset consisting of calls to the 311 phone number for non-emergency services. Each call to 311 has a number of data points tracked and aggregated. We work with a year’s worth of data from this dataset.
 
 The first Jupyter notebook, Top10.ipynb, analyzes what the top 10 causes of calls to 311 are in our chosen ZIP code 10027, and returns a pandas series reporting a list of the cause, with the number of calls made relating to that particular cause.
@@ -13,7 +15,7 @@ You may find a pre-exported CSV file containing a year of data from the dataset,
 https://drive.google.com/drive/folders/1BRd8_RSST69UaZRBeD_dtXGw9fuKoBZE?usp=sharing
 
 # About the team
-This repository is made for a group project in IEOR 4501 Tools For Analytics Section 001. The whole project is made by :
+The whole project is made by :
 
 Project group 34
 
